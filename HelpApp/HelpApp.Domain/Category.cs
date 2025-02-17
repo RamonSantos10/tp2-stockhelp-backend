@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelpApp.Domain
 {
-    public class Category
+    internal class Category
     {
     }
 }

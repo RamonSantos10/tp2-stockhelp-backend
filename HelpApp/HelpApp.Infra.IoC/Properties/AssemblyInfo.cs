@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
-[assembly: AssemblyTitle("HelpApp.Domain")]
+[assembly: AssemblyTitle("HelpApp.Infra.IoC")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("HelpApp.Domain")]
+[assembly: AssemblyProduct("HelpApp.Infra.IoC")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // O GUID a seguir será destinado à ID de typelib se este projeto for exposto para COM
-[assembly: Guid("d6aeba2c-f477-481e-b933-b35e463efad2")]
+[assembly: Guid("a090b155-da94-49a7-bc88-7854f74082da")]
 
 // As informações da versão de um assembly consistem nos quatro valores a seguir:
 //

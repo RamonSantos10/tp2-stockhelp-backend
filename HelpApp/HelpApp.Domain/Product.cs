@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace HelpApp.Domain
 {
-    public class Product
+    internal class Product
     {
     }
 }
